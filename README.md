@@ -24,9 +24,9 @@
 - 📄 Know about my experiences [https://henryjfv.github.io/CV/](https://henryjfv.github.io/CV/)
 
 - ⚡ Fun fact **I am very creative**
-
+<!--
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
