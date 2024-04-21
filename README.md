@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working with framework [Flutter projects](https://flutter.dev/)
 
-- 🌱 I’m currently learning **Mobile firts**
+- 🌱 I’m currently learning **Improving code**
 
 - 👯 I’m looking to collaborate on **Flutter, NodeJs, Vuejs, ReactJs, React Native**
 
