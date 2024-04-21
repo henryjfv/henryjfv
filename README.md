@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henry Jose Fernandez Villarreal</h1>
 <h3 align="center">A passionate mobile developer from Colombia</h3>
-<span align="center">but i know how to build web applications too</span>
+<h4 align="center">but i know how to build web applications too</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryjfv&label=Profile%20views&color=0e75b6&style=flat" alt="henryjfv" /> </p>
 
