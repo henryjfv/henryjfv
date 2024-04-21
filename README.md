@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henry Jose Fernandez Villarreal</h1>
-<h3 align="center">A passionate fullStack developer from Colombia</h3>
+<h3 align="center">A passionate mobile developer from Colombia</h3>
+<span align="center">but i know how to build web applications too</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryjfv&label=Profile%20views&color=0e75b6&style=flat" alt="henryjfv" /> </p>
 
@@ -11,19 +12,19 @@
 
 - 🌱 I’m currently learning **Mobile firts**
 
-- 👯 I’m looking to collaborate on **Flutter, NodeJs, ReactJs, React Native**
+- 👯 I’m looking to collaborate on **Flutter, NodeJs, Vuejs, ReactJs, React Native**
 
 - 🤝 I’m looking for help with **Aws**
 
 - 👨‍💻 All of my projects are available at [https://github.com/henryjfv](https://github.com/henryjfv)
 
-- 💬 Ask me about **Flutter, React, Mobile, Node, JavaScript, TypeScript**
+- 💬 Ask me about **Flutter, Vue, React, Mobile, Node, JavaScript, TypeScript**
 
 - 📫 How to reach me **henryfernandezv@gmail.com**
 
 - 📄 Know about my experiences [https://henryjfv.github.io/CV/](https://henryjfv.github.io/CV/)
 
-- ⚡ Fun fact **I am very creative**
+- ⚡ Fun fact **I like Vue**
 <!--
 ### Blogs posts
  BLOG-POST-LIST:START -->
