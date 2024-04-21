@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Flutter, Vue, React, Mobile, Node, JavaScript, TypeScript**
 
-- 📫 How to reach me **henryfernandezv@gmail.com**
+- 📫 How to reach me **[LinkInd](https://www.linkedin.com/in/henryjosefernandez-villarreal/)**
 
 - 📄 Know about my experiences [https://henryjfv.github.io/CV/](https://henryjfv.github.io/CV/)
 
