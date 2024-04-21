@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/hefevi91" target="blank"><img src="https://img.shields.io/twitter/follow/hefevi91?logo=twitter&style=for-the-badge" alt="hefevi91" /></a> </p>
 
-- 🔭 I’m currently working with framework [React Native projects](https://reactnative.dev/)
+- 🔭 I’m currently working with framework [Flutter projects](https://flutter.dev/)
 
-- 🌱 I’m currently learning **DevOps tools**
+- 🌱 I’m currently learning **Mobile firts**
 
-- 👯 I’m looking to collaborate on **NodeJs, ReactJs, React Native, Flutter**
+- 👯 I’m looking to collaborate on **Flutter, NodeJs, ReactJs, React Native**
 
-- 🤝 I’m looking for help with **Java, Aws**
+- 🤝 I’m looking for help with **Aws**
 
 - 👨‍💻 All of my projects are available at [https://github.com/henryjfv](https://github.com/henryjfv)
 
-- 💬 Ask me about **React, Mobile, Java, Node, JavaScript, TypeScript**
+- 💬 Ask me about **Flutter, React, Mobile, Node, JavaScript, TypeScript**
 
 - 📫 How to reach me **henryfernandezv@gmail.com**
 
