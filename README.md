@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Improving code**
 
-- 👯 I’m looking to collaborate on **Flutter, NodeJs, Vuejs, ReactJs, React Native**
+- 👯 I’m looking to collaborate on **Flutter, NodeJs, Vuejs, ReactJs**
 
 - 🤝 I’m looking for help with **Aws**
 
@@ -24,7 +24,6 @@
 
 - 📄 Know about my experiences [https://henryjfv.github.io/CV/](https://henryjfv.github.io/CV/)
 
-- ⚡ Fun fact **I like Vue**
 <!--
 ### Blogs posts
  BLOG-POST-LIST:START -->
