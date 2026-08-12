@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/henryjosefernandez-villarreal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://henryjfv.github.io/CV/"><img src="https://img.shields.io/badge/CV-1f2328?style=flat-square&logo=readdotcv&logoColor=white" alt="CV"/></a>
-  <a href="mailto:TU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:henryfernandezv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
